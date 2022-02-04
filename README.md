@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tofferdrake
+- 👋 Hi, I’m Drake!
 - 👀 I’m interested in working with data and reading books while I do not binge on T.V. shows.
 - 🌱 I’m currently learning how to use git and github, and web development in python.
 - 💞️ I’m looking to collaborate on 
